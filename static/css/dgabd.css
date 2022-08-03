@@ -1,0 +1,36 @@
+.menu {
+    padding: -10px 20px !important;
+    border-radius: 10px;
+}
+
+.menu:hover {
+    background-color: rgba(128, 128, 128, 0.075);
+}
+
+
+.header-image {
+    background-image: url('./archive-3859388_1920.jpg'), radial-gradient(circle, rgba(0, 0, 0, 0.545) 5%, rgba(0, 0, 2, 0.59) 70%) !important;
+
+
+}
+
+#barderecherche {
+    width: 850px;
+}
+
+.logo img,
+.footer-logo img {
+    width: 150px !important;
+
+}
+
+.footer-logo img {
+    border-radius: 100%;
+    height: 150px;
+}
+
+.n {
+    padding: 14px;
+    outline: none;
+    border-radius: 7px;
+}
